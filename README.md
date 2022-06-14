@@ -1,16 +1,7 @@
-# onesignal_iam_flutter
+# Onesignal Flutter IAM Example
 
-A new Flutter project.
+This project was made while authoring an article, [OneSignal
+—
+How to Add In-App Messages to a Flutter App](https://onesignal.com/blog/how-to-add-in-app-messages-to-a-flutter-app/).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You will need to add your app id in this project for it to work properly.
